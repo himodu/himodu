@@ -4,9 +4,7 @@
 ### 👋 Hello  I'm Studying to be Web-backend / Server SoftWareEngineer 👋
 
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=himodu0828)](https://solved.ac/himodu0828/)  
-
-  </div>  
-</div>  
+ 
   
 ## 💻 Studying Tech-Stack
 ### Language
