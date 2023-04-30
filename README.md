@@ -1,7 +1,7 @@
 <div align="center">
 
 # Lee Dong Geon - KNU CSE Student 
-### 👋 Hello  I'm Studying to be Web-backend / Server Engineer
+### 👋 Hello  I'm Studying to be Web-backend / Server Engineer 👋
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=himodu0828)](https://solved.ac/himodu0828/)  
 
 ## 💻 Studying Tech-Stack
