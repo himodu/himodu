@@ -1,10 +1,12 @@
-<div align="center">
+<div align="right">
 
-# Hi~ modu
-### 👋 모두 안녕하세요 저는 벡엔드 개발자가 되기위해 공부하는 이동건입니다.  👋
+# 👋 Hi~ modu 👋
+###  모두 안녕하세요 🙇‍♂️ 저는 백엔드 개발을 공부하는 이동건입니다.  
+</div>  
 
-
-  
+## 📜 My-Records
+<a href="https://transparent-mind-43e.notion.site/Himodu-f03395636bbc4b4da128ee8da1c55039?pvs=74"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
+<a href="https://himodu-tech.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
 ## 💻 Tech-Stack
 
 <div>
@@ -19,7 +21,7 @@
 
   
 
-</div>  
+
 <!--
 **himodu/himodu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
