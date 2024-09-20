@@ -2,6 +2,9 @@
 
 # 👋 Hi~ modu 👋
 ###  모두 안녕하세요 🙇‍♂️ 저는 백엔드 개발을 공부하는 이동건입니다.  
+
+
+
 </div>  
 
 ## 📜 My-Records
@@ -19,8 +22,8 @@
  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">
 </div>
 
-  
-
+## ✅ Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=himodu0828)](https://solved.ac/himodu0828/)
 
 <!--
 **himodu/himodu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
