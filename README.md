@@ -32,7 +32,7 @@
 ## :bar_chart: Status
 | ✅ Algorithm    | :open_file_folder: Git Stats                                 |
 | ---------- | ---------------------------------------------- |
-| [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=himodu0828)](https://solved.ac/himodu0828/)] | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=himodu&show_icons=true&theme=dark)               |
+| [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=himodu0828)](https://solved.ac/himodu0828/) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=himodu&show_icons=true&theme=dark)               |
 
 
 <!--
