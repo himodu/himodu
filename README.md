@@ -10,7 +10,7 @@
 ## 📜 My-Records
 <a href="https://transparent-mind-43e.notion.site/Himodu-f03395636bbc4b4da128ee8da1c55039?pvs=74"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
 <a href="https://himodu-tech.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/modu-hi-946805304/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=INSPIRE&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/%EB%8F%99%EA%B1%B4-%EC%9D%B4-946805304//"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=INSPIRE&logoColor=white"></a>
 ## 💻 Tech-Stack
 
 <div>
